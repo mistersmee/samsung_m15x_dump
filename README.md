@@ -1,0 +1,14 @@
+# m15xnndxx-user 14 UP1A.231005.007 E156BXXS3AXIJ release-keys
+- manufacturer: samsung
+- platform: mt6835
+- codename: m15x
+- flavor: m15xnndxx-user
+- release: 14
+- id: UP1A.231005.007
+- incremental: E156BXXS3AXIJ
+- tags: release-keys
+- fingerprint: samsung/m15xnndxx/m15x:13/TP1A.220624.014/E156BXXS3AXIJ:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: m15xnndxx-user-14-UP1A.231005.007-E156BXXS3AXIJ-release-keys
+- repo: samsung_m15x_dump
